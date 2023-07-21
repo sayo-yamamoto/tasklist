@@ -42,7 +42,7 @@
   	<dependency>
   		<groupId>javax.servlet.jsp.jstl</groupId>
   		<artifactId>javax.servlet.jsp.jstl-api</artifactId>
-  		<version>avax.servlet.jsp.jstl-api</version>
+  		<version>1.2.1</version>
   	</dependency>
   </dependencies>
 </project>
